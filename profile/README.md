@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/galaxis-forge-thumbnail.png" alt="Galaxis Forge" width="100%" />
+  <img src="./assets/galaxis-forge-thumbnail.jpg" alt="Galaxis Forge" width="100%" />
 </p>
 
 <h1 align="center">Galaxis Forge</h1>
